@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+
+
+.text-green {
+    color: green;
+    background: gray;
+}
+
+.text-red {
+    color: red;
+    background: gray;
+    text-align: center;
+}
+
+.text-blue {
+    color: blue;
+    background: gray;
+    text-align: right
+}
+
+.text-purple {
+    color: purple;
+    background: gray;
+    text-align: center;
+}
+
+.text-yellow {
+    color: yellow;
+    background: gray;
+}
+
+.text-pink {
+    color: pink;
+    background: gray;
+    text-align: center;
+}
+
+ul {
+    background: white;
+}
+
+body {
+    background:yellow;
+}
+
+li:hover {
+    color: white;
+    color: black;
+    background: white;
+    text-align: left;
+}
