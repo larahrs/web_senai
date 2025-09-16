@@ -1,0 +1,65 @@
+div.verde {
+    background-color: green;
+    width: 15%;
+    height: 250px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 20px;
+}
+
+
+div.azul {
+    background-color: blue;
+    width: 250px;
+    height: 250px;
+    border-radius: 1000px;
+    display: inline-block;
+}
+
+div.yellow1 {
+    background-color: yellow;
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    margin: 20px;
+    display: inline-block;
+}
+
+div.verde2 {
+    background-color: green;
+    width: 50%;
+    height: 200px;
+    border-radius: 40px;
+    display: inline-block;
+}
+
+body {
+    text-align: center;
+    background-color: lightblue;
+    margin: 10px;
+    padding:10px
+}
+
+.verde:hover {
+    color: black;
+    background-color: white;
+    border: 1px solid black
+}
+
+.azul:hover {
+    color: black;
+    background-color: white;
+    border: 1px solid black
+}
+
+.yellow1:hover {
+    color: black;
+    background-color: white;
+    border: 1px solid black
+}
+
+.verde2:hover {
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}
